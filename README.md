@@ -1,0 +1,2 @@
+# yolov5_person_detectation
+yolov5的平面摄像头的行人检测
