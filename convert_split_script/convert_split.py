@@ -1,5 +1,5 @@
 """
-
+将xml标签转换为txt格式，自动划分训练集和验证集。
 """
 import os.path
 import xml.etree.ElementTree as ET
