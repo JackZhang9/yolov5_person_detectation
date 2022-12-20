@@ -7,7 +7,7 @@ import random
 from shutil import copyfile
 
 
-classes=["hat","person"]
+classes=["car","person"]
 TRAIN_RATIO=80
 
 def convert(size,bbox):
